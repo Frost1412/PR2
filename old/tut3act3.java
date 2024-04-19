@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 
 public class tut3act3 {
     public static void main(String[] args) {

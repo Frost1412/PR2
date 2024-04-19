@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 
 class SLLQueue {
     private QueueNode front; // Points to the front of the queue

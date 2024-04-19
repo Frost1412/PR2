@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 
 public class Rectangle {
 

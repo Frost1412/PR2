@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 public class tut2act1 {
     public static void main(String[]args){
         int a = (int) (Math.random() *6) + 1;

@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 
 import com.github.javaparser.JavaParser;
 import com.github.javaparser.ast.CompilationUnit;

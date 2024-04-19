@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 import java.util.Scanner;
 public class tut2act2 {
     public static void main(String[] args){

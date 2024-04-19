@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 import java.util.Scanner;
 public class ex2tut1 {
     public static void main(String[] args) {

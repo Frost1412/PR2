@@ -1,4 +1,4 @@
-package PR2;
+package PR2.old;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
